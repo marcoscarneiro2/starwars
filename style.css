@@ -1,0 +1,39 @@
+.info-container{
+    width: 110%;
+    height: auto;
+    border: 5px solid yellow;
+    background: rgba(70, 60, 60, 0.53);
+    border-radius: 50px 50px 50px 50px;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+    color: #ffff00;
+    font-family:'Star Jedi Hollow' ;
+}
+h2{
+    color:white;
+    font-size: 30px;
+text-align: center;
+    margin-top: 10%;
+    margin-bottom: 15%;
+
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10%;
+
+
+}
+
+body{
+      background-image: url(st.jpg);
+    background-repeat:fixed no-repeat;
+  background-size: cover;
+
+}
+#button{
+    margin-left: 6%;
+}
